@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WinForms_MapControl_KeyColorColorizer/Form1.cs) (VB: [Form1.vb](./VB/WinForms_MapControl_KeyColorColorizer/Form1.vb))
+<!-- default file list end -->
 # How to colorize a Cartesian map using a key-color colorizer
 
 
